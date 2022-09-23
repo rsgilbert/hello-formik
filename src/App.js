@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import { BasicForm } from './components/MyForm';
+import { BasicForm2 } from './components/BasicForm2';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <BasicForm />
+        <BasicForm2 />
       </header>
     </div>
   );
